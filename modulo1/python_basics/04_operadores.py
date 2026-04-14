@@ -29,3 +29,28 @@ n//=2
 print("n//=2", n)
 n**=2
 print("n**=2", n)
+
+# OPERADORES LOGICOS
+#And
+print(True and True)   # True
+print(True and False)  # False
+#Or
+print(True or True)   # True
+print(True or False)  # True
+#Not
+print(not True)  # False
+print(not False) # True
+# OPERADORES DE COMPARACION
+#Igualdad
+a = 1
+a == 1
+#Desigualdad
+a != 1
+#Mayor que
+4 > 2
+#Menor que
+4 < 2
+#Menor igual que
+5 <= 2
+#Mayor igual que
+5 >= 2
